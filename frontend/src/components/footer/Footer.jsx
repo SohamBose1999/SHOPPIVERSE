@@ -18,6 +18,7 @@ const Footer = () => {
             <li>Offices</li>
             <li>About</li>
             <li>Contact</li>
+            <li > <a style={{textDecoration:'none'}} href="https://shoppiverse-admin.vercel.app" target="_blank">Admin</a></li>
           </ul>
           <div className="footer-social-icon">
             <div className="footer-icons-container">
